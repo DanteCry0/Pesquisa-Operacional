@@ -10,3 +10,5 @@ Foi desenvolvido um gráfico para a visualização e aplicação das fórmulas d
 
 ## 26/08/2026
 ### 3) Identificação e definição das variáveis e a construção do gráfico para a o Exercício de Fábrica de Brinquedos
+Foi desenvolvido um gráfico e o processo do desenvolvimento do raciocínio do exercício
+<img width="1498" height="581" alt="image" src="https://github.com/user-attachments/assets/5a5f89f8-5286-448f-8a80-4745016782a8" />
