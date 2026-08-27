@@ -19,3 +19,5 @@ Foi desenvolvido um gráfico e o processo do desenvolvimento do raciocínio do e
 
 ### 5) Identificação e definição das variáveis e a construção do gráfico para a o Exercício do Barco
 <img width="879" height="560" alt="image" src="https://github.com/user-attachments/assets/0ec48226-6369-4b8b-8428-8439dcdd8247" />
+<img width="1454" height="613" alt="image" src="https://github.com/user-attachments/assets/6827761f-e126-4c29-8aa4-24cd9a4bf67b" />
+
