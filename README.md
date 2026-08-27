@@ -16,3 +16,6 @@ Foi desenvolvido um gráfico e o processo do desenvolvimento do raciocínio do e
 ### 4) Identificação e definição das variáveis e a construção do gráfico para a o Exercício de Fábrica de Fantasias
 Foi desenvolvido um gráfico e o processo do desenvolvimento do raciocínio do exercício
 <img width="1488" height="571" alt="image" src="https://github.com/user-attachments/assets/251764d2-57b1-4b76-93ab-5fbfdc891476" />
+
+### 5) Identificação e definição das variáveis e a construção do gráfico para a o Exercício do Barco
+<img width="879" height="560" alt="image" src="https://github.com/user-attachments/assets/0ec48226-6369-4b8b-8428-8439dcdd8247" />
