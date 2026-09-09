@@ -21,3 +21,10 @@ Foi desenvolvido um gráfico e o processo do desenvolvimento do raciocínio do e
 <img width="879" height="560" alt="image" src="https://github.com/user-attachments/assets/0ec48226-6369-4b8b-8428-8439dcdd8247" />
 <img width="1454" height="613" alt="image" src="https://github.com/user-attachments/assets/6827761f-e126-4c29-8aa4-24cd9a4bf67b" />
 
+## 02/09/2026
+### APLICAÇÃO DA ATIVIDADE
+### 6)Desenvolvimento da solução e aplicação das restrições a partir do uso do SOLVER no exercício do vendedor de meias
+<img width="1068" height="531" alt="image" src="https://github.com/user-attachments/assets/c2725124-0204-40ab-8348-901d0b2220d6" />
+
+### 7)Desenvolvimento da solução e aplicação das restrições a partir do uso do SOLVER no exercício da empresa
+<img width="955" height="277" alt="image" src="https://github.com/user-attachments/assets/ae757686-d00f-4284-a12e-744106d008e6" />
