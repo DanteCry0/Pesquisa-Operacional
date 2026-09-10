@@ -39,4 +39,7 @@ Foi desenvolvido um gráfico e o processo do desenvolvimento do raciocínio do e
 ### 10)Desenvolvimento da solução e aplicação das restrições usando o SOLVER PARA MINIMIZAR, executado no exercício das Vitaminas 
 <img width="1497" height="544" alt="image" src="https://github.com/user-attachments/assets/b8248b1a-5948-499d-a854-18608d16926c" />
 
+### 11)Desenvolvimento da solução e aplicação das restrições usando o SOLVAR PARA MINIMIZAR, executado no exercício do Jardim
+<img width="1502" height="557" alt="image" src="https://github.com/user-attachments/assets/e865afaf-877d-44e9-8117-01185b2aa3e1" />
+
 
