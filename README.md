@@ -32,3 +32,11 @@ Foi desenvolvido um gráfico e o processo do desenvolvimento do raciocínio do e
 ## 09/09/2026
 ### 8)Desenvolvimento da solução e aplicação das restrições a partir do uso do SOLVER no exercício Do Capitão caverna
 <img width="1411" height="749" alt="image" src="https://github.com/user-attachments/assets/b5a90650-2ef6-4a98-85c3-449dd41a25c7" />
+
+### 9)Desenvolvimento da solução e aplicação das restrições a partir de uso do Solver para o exercício do Beta Ltda
+<img width="1640" height="549" alt="image" src="https://github.com/user-attachments/assets/25a265ba-1588-43a4-9b50-d59466497b4e" />
+
+### 10)Desenvolvimento da solução e aplicação das restrições usando o SOLVER PARA MINIMIZAR, executado no exercício das Vitaminas 
+<img width="1497" height="544" alt="image" src="https://github.com/user-attachments/assets/b8248b1a-5948-499d-a854-18608d16926c" />
+
+
