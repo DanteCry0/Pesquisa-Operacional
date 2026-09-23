@@ -42,4 +42,20 @@ Foi desenvolvido um gráfico e o processo do desenvolvimento do raciocínio do e
 ### 11)Desenvolvimento da solução e aplicação das restrições usando o SOLVAR PARA MINIMIZAR, executado no exercício do Jardim
 <img width="1502" height="557" alt="image" src="https://github.com/user-attachments/assets/e865afaf-877d-44e9-8117-01185b2aa3e1" />
 
+## 23/09/2026
+### 1) Método de Transporte
+princípio básicos para a terminação de resolução de problemas de transporte
+Temos as Variáveis : Qtd. a transportar de cada fonte para cada destino.
+<img width="548" height="472" alt="image" src="https://github.com/user-attachments/assets/6c4f31c4-dbdb-4d91-afde-b70bbd0bb9c6" />
+
+assim entende-se que a função objetivo será Min(Custo) -> C11*X11+C12*X12+C13*X13+C21*X21+C22*X22+C23*X23
+<br>Restrições:
+1)Fontes:<br>
+-X11+X12+X13=Q1
+-X21+X22+X23=Q2<BR>
+2)Destinos
+-X11+X21=D1
+-X12+X22=D2
+-X13+X23=D2
+
 
