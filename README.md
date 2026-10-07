@@ -59,6 +59,5 @@ assim entende-se que a função objetivo será Min(Custo) -> C11*X11+C12*X12+C13
 -X13+X23=D2
 
 ##2) ATIVIDADES
-Todas se encontram no arquivo (/arquivos/AULA 07.10.2026 METODO DE TRANSPORTE.xlsx)
-
+Todas se encontram no [Arquivos](./Arquivos/AULA 07.10.2026 METODO DE TRANSPORTE.xlsx)
 
