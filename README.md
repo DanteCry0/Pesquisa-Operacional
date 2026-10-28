@@ -64,5 +64,6 @@ Todas se encontram no [Arquivos](./Arquivos/AULA 07.10.2026 METODO DE TRANSPORTE
 ## 21/10/2026
 Dentro do arquivo na pasta
 
-## 28/10/2026
+## 28/10/2026 
+### 1)Problemas de Transporte
 
