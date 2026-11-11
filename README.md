@@ -86,7 +86,10 @@ Teoria das filas<br>
 <img width="50%" height="815" alt="image" src="https://github.com/user-attachments/assets/55247944-3289-4273-ab24-0ecb1966f2b1" />
 <img width="50%" height="736" alt="image" src="https://github.com/user-attachments/assets/3a5d20e6-6729-43e3-b6e2-54d30fbf5228" />
 
+<BR>Exercicio 2<br>
+<br><img width="1155" height="719" alt="image" src="https://github.com/user-attachments/assets/22e21f12-b633-4dfe-9515-50e241c12ecf" /><br>
 
+<br><img width="621" height="364" alt="image" src="https://github.com/user-attachments/assets/e66f1310-7eee-424b-9051-0bf77ca5560e" /><br>
 
 
 
