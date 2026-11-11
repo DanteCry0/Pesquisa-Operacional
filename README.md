@@ -64,6 +64,11 @@ Todas se encontram no [Arquivos](./Arquivos/AULA 07.10.2026 METODO DE TRANSPORTE
 ## 21/10/2026
 Dentro do arquivo na pasta
 
+## 11/11/2026
+Teoria das filas<br>
+<img width="1281" height="686" alt="image" src="https://github.com/user-attachments/assets/ff6b92d3-0ae8-491c-ae02-9263ab7f3b35" />
+
+
 ## 28/10/2026 
 ### 1)Problemas de Transporte
 
