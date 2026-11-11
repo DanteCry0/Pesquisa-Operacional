@@ -80,7 +80,9 @@ Sobre as filas;
 Sobre Disciplina de Fila:
 <img width="50%" height="711" alt="image" src="https://github.com/user-attachments/assets/5b23ec1a-b787-41cb-aaba-dfed242c4ea7" /><br>
 Sobre os Mecanismos de Atendimento:
-<img width="50%" height="734" alt="image" src="https://github.com/user-attachments/assets/b420119d-ec12-42bb-ade0-47577b242254" />
+<img width="50%" height="734" alt="image" src="https://github.com/user-attachments/assets/b420119d-ec12-42bb-ade0-47577b242254" /><br>
+Informações necessarias para os parâmetros de entrada
+<img width="1150" height="739" alt="image" src="https://github.com/user-attachments/assets/f65679b4-b78c-4a42-ad80-ca1148c7b43c" />
 
 
 
