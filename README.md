@@ -72,18 +72,18 @@ Dentro do arquivo na pasta
 Teoria das filas<br>
 <img width="50%" height="686" alt="image" src="https://github.com/user-attachments/assets/ff6b92d3-0ae8-491c-ae02-9263ab7f3b35" /><br>
 <img width="50%" height="744" alt="image" src="https://github.com/user-attachments/assets/3a333a46-c3df-4ddb-9190-df2f83a95643" /><br>
-de forma de esquema<br>
+<br>de forma de esquema<br>
 <img width="50%" height="478" alt="image" src="https://github.com/user-attachments/assets/28feca2f-14fe-442a-ab83-41d193d347f4" /><br>
-Sobre as filas;<br>
+<br>Sobre as filas;<br>
 <img width="50%" height="742" alt="image" src="https://github.com/user-attachments/assets/92424e2c-0738-4cf6-9bf6-66e5b03f4550" /><br>
-Sobre Disciplina de Fila:<br>
+<br>Sobre Disciplina de Fila:<br>
 <img width="50%" height="711" alt="image" src="https://github.com/user-attachments/assets/5b23ec1a-b787-41cb-aaba-dfed242c4ea7" /><br>
-Sobre os Mecanismos de Atendimento:<br>
+<br>Sobre os Mecanismos de Atendimento:<br>
 <img width="50%" height="734" alt="image" src="https://github.com/user-attachments/assets/b420119d-ec12-42bb-ade0-47577b242254" /><br>
-Informações necessarias para os parâmetros de entrada<br>
-<img width="1150" height="739" alt="image" src="https://github.com/user-attachments/assets/f65679b4-b78c-4a42-ad80-ca1148c7b43c" />
-Exercicio 1<br>
-<img width="1204" height="815" alt="image" src="https://github.com/user-attachments/assets/55247944-3289-4273-ab24-0ecb1966f2b1" />
+<br>Informações necessarias para os parâmetros de entrada<br>
+<img width="50%" height="739" alt="image" src="https://github.com/user-attachments/assets/f65679b4-b78c-4a42-ad80-ca1148c7b43c" />
+<br>Exercicio 1<br>
+<img width="50%" height="815" alt="image" src="https://github.com/user-attachments/assets/55247944-3289-4273-ab24-0ecb1966f2b1" />
 
 
 
