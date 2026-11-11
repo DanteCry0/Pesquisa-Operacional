@@ -82,8 +82,9 @@ Teoria das filas<br>
 <img width="50%" height="734" alt="image" src="https://github.com/user-attachments/assets/b420119d-ec12-42bb-ade0-47577b242254" /><br>
 <br>Informações necessarias para os parâmetros de entrada<br>
 <img width="50%" height="739" alt="image" src="https://github.com/user-attachments/assets/f65679b4-b78c-4a42-ad80-ca1148c7b43c" />
-<br>Exercicio 1<br>
+<br>Exercicio 1 A CHEGA TEM QUE SER MENOR QUE O ATENDIMENTO / TAXA DE CHEGADA MENOR QUE A DE ATENDIMENTO<br>
 <img width="50%" height="815" alt="image" src="https://github.com/user-attachments/assets/55247944-3289-4273-ab24-0ecb1966f2b1" />
+<img width="50%" height="736" alt="image" src="https://github.com/user-attachments/assets/3a5d20e6-6729-43e3-b6e2-54d30fbf5228" />
 
 
 
