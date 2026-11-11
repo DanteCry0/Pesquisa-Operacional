@@ -64,11 +64,27 @@ Todas se encontram no [Arquivos](./Arquivos/AULA 07.10.2026 METODO DE TRANSPORTE
 ## 21/10/2026
 Dentro do arquivo na pasta
 
+## 28/10/2026 
+### 1)Problemas de Transporte no arquivo
+
+
 ## 11/11/2026
 Teoria das filas<br>
-<img width="1281" height="686" alt="image" src="https://github.com/user-attachments/assets/ff6b92d3-0ae8-491c-ae02-9263ab7f3b35" />
+<img width="1281" height="686" alt="image" src="https://github.com/user-attachments/assets/ff6b92d3-0ae8-491c-ae02-9263ab7f3b35" /><br>
+<img width="1249" height="744" alt="image" src="https://github.com/user-attachments/assets/3a333a46-c3df-4ddb-9190-df2f83a95643" /><br>
+de forma de esquema
+<img width="1278" height="478" alt="image" src="https://github.com/user-attachments/assets/28feca2f-14fe-442a-ab83-41d193d347f4" /><br>
+
+Sobre as filas;
+<img width="1258" height="742" alt="image" src="https://github.com/user-attachments/assets/92424e2c-0738-4cf6-9bf6-66e5b03f4550" /><br>
+Sobre Disciplina de Fila:
+<img width="1267" height="711" alt="image" src="https://github.com/user-attachments/assets/5b23ec1a-b787-41cb-aaba-dfed242c4ea7" /><br>
+Sobre os Mecanismos de Atendimento:
+<img width="1143" height="734" alt="image" src="https://github.com/user-attachments/assets/b420119d-ec12-42bb-ade0-47577b242254" />
 
 
-## 28/10/2026 
-### 1)Problemas de Transporte
+
+
+
+
 
